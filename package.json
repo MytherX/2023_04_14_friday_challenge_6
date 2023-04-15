@@ -1,0 +1,21 @@
+{
+  "name": "2023_04_14_friday_challenge_6",
+  "version": "1.0.0",
+  "description": "Friday Challenge 6",
+  "main": "",
+  "scripts": {
+    "7-task": "nodemon ./js/07-task.js",
+    "6-task": "nodemon ./js/06-task.js",
+    "5-task": "nodemon ./js/05-task.js",
+    "4-task": "nodemon ./js/04-task.js",
+    "3-task": "nodemon ./js/03-task.js",
+    "2-task": "nodemon ./js/02-task.js",
+    "1-task": "nodemon ./js/01-task.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnoldas (https://github.com/MytherX)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
